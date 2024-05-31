@@ -21,8 +21,13 @@
   },
   "dependencies": {
     "@nestjs/common": "^10.0.0",
+    "@nestjs/config": "^3.2.2",
     "@nestjs/core": "^10.0.0",
+    "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^10.0.0",
+    "firebase-admin": "^12.1.1",
+    "google-auth-library": "^9.10.0",
+    "pusher": "^5.2.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
   },
